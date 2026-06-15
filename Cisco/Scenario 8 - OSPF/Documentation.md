@@ -2,7 +2,7 @@
 ---
 ## 🔹محیط کار و توپولوژی
 ---
-![[ Scenario 8 - OSPF/Topology.png]]
+![[Topology.png]]
 - **Cisco Packer Tracer**⬆️
 ---
 
@@ -33,7 +33,7 @@
 
 ## 🔹راستی آزمایی
 ---
-![[ Scenario 8 - OSPF/Sources/Tracert.png]]
+![[Tracert.png]]
 - دستور`tracert`⬆️
 ---
 

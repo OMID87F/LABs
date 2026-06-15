@@ -2,7 +2,7 @@
 ---
 ## 🔹محیط کار و توپولوژی
 ---
-![[ Scenario 6 - VTP/Topology.png]]
+![[Topology.png]]
 - **Cisco Packer Tracer**⬆️
 ---
 

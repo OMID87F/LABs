@@ -2,7 +2,7 @@
 ---
 ## 🔹محیط کار و توپولوژی
 ---
-![[ Scenario 7 - Static Routing/Topology.png]]
+![[Topology.png]]
 - **Cisco Packer Tracer**⬆️
 ---
 
